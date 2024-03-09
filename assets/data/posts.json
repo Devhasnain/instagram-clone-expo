@@ -1,0 +1,492 @@
+[
+    {
+      "id": 1,
+      "email": "john@mail.com",
+      "password": "changeme",
+      "name": "Jhon",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-02-29T16:09:00.000Z",
+      "updatedAt": "2024-02-29T16:09:00.000Z"
+    },
+    {
+      "id": 2,
+      "email": "maria@mail.com",
+      "password": "12345",
+      "name": "Maria",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/DTfowdu.jpg",
+      "creationAt": "2024-02-29T16:09:00.000Z",
+      "updatedAt": "2024-02-29T16:09:00.000Z"
+    },
+    {
+      "id": 3,
+      "email": "admin@mail.com",
+      "password": "admin123",
+      "name": "Admin",
+      "role": "admin",
+      "avatar": "https://i.imgur.com/yhW6Yw1.jpg",
+      "creationAt": "2024-02-29T16:09:00.000Z",
+      "updatedAt": "2024-02-29T16:09:00.000Z"
+    },
+    {
+      "id": 4,
+      "email": "mazriza01@gmail.com",
+      "password": "rifqiriza1",
+      "name": "PT TIGA SAUDARA ",
+      "role": "customer",
+      "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+      "creationAt": "2024-02-29T16:09:22.000Z",
+      "updatedAt": "2024-02-29T16:09:22.000Z"
+    },
+    {
+      "id": 5,
+      "email": "as@www.ee",
+      "password": "12345",
+      "name": "123123asd",
+      "role": "customer",
+      "avatar": "https://api.escuelajs.co/api/v1/files/ccf4.jpeg",
+      "creationAt": "2024-02-29T16:30:33.000Z",
+      "updatedAt": "2024-02-29T16:42:44.000Z"
+    },
+    {
+      "id": 6,
+      "email": "dok@mail.com",
+      "password": "qwerty",
+      "name": "dok",
+      "role": "customer",
+      "avatar": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/733885_v9_bc.jpg",
+      "creationAt": "2024-02-29T16:30:58.000Z",
+      "updatedAt": "2024-02-29T16:30:58.000Z"
+    },
+    {
+      "id": 7,
+      "email": "leonid72@gmail.com",
+      "password": "1234456",
+      "name": "leonid",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T16:41:56.000Z",
+      "updatedAt": "2024-02-29T16:41:56.000Z"
+    },
+    {
+      "id": 8,
+      "email": "aron@gmail.com",
+      "password": "Aron12345",
+      "name": "Aron",
+      "role": "customer",
+      "avatar": "https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg?w=1060&t=st=1709225705~exp=1709226305~hmac=d7392708b6207e6f0a7f849cbffb360a10274caf7caafea3b375c18e65cf7da7",
+      "creationAt": "2024-02-29T16:55:26.000Z",
+      "updatedAt": "2024-02-29T16:55:26.000Z"
+    },
+    {
+      "id": 9,
+      "email": "sus@mikr.ru",
+      "password": "qwerty",
+      "name": "sus",
+      "role": "customer",
+      "avatar": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/733885_v9_bc.jpg",
+      "creationAt": "2024-02-29T16:56:05.000Z",
+      "updatedAt": "2024-02-29T16:56:05.000Z"
+    },
+    {
+      "id": 10,
+      "email": "tom@gmail.com",
+      "password": "qwerty",
+      "name": "Tom",
+      "role": "customer",
+      "avatar": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/733885_v9_bc.jpg",
+      "creationAt": "2024-02-29T16:58:36.000Z",
+      "updatedAt": "2024-02-29T16:58:36.000Z"
+    },
+    {
+      "id": 11,
+      "email": "aa@aa.aa",
+      "password": "12345",
+      "name": "aaa",
+      "role": "admin",
+      "avatar": "https://api.escuelajs.co/api/v1/files/c7a10.jpeg",
+      "creationAt": "2024-02-29T17:27:35.000Z",
+      "updatedAt": "2024-02-29T17:45:59.000Z"
+    },
+    {
+      "id": 12,
+      "email": "kenici780@gmail.com",
+      "password": "12345",
+      "name": "Andrei",
+      "role": "admin",
+      "avatar": "https://api.escuelajs.co/api/v1/files/1b74.jpeg",
+      "creationAt": "2024-02-29T17:46:49.000Z",
+      "updatedAt": "2024-02-29T17:46:54.000Z"
+    },
+    {
+      "id": 13,
+      "email": "dobrocenterfin@gmail.com",
+      "password": "12345",
+      "name": "Андрей",
+      "role": "admin",
+      "avatar": "https://api.escuelajs.co/api/v1/files/22b6.jpeg",
+      "creationAt": "2024-02-29T17:54:32.000Z",
+      "updatedAt": "2024-02-29T18:10:16.000Z"
+    },
+    {
+      "id": 14,
+      "email": "test@gmail.com",
+      "password": "1234",
+      "name": "chirag",
+      "role": "customer",
+      "avatar": "TEST.COM",
+      "creationAt": "2024-02-29T18:22:42.000Z",
+      "updatedAt": "2024-02-29T18:22:42.000Z"
+    },
+    {
+      "id": 15,
+      "email": "shraddha@gmail.com",
+      "password": "test123",
+      "name": "shraddha jain",
+      "role": "customer",
+      "avatar": "shraddha.com",
+      "creationAt": "2024-02-29T18:48:58.000Z",
+      "updatedAt": "2024-02-29T18:48:58.000Z"
+    },
+    {
+      "id": 16,
+      "email": "shraddha@gmail.com",
+      "password": "test123",
+      "name": "shraddha jain",
+      "role": "customer",
+      "avatar": "shraddha.com",
+      "creationAt": "2024-02-29T18:50:05.000Z",
+      "updatedAt": "2024-02-29T18:50:05.000Z"
+    },
+    {
+      "id": 17,
+      "email": "shraddha@gmail.com",
+      "password": "test123",
+      "name": "shraddha jain",
+      "role": "customer",
+      "avatar": "shraddha.com",
+      "creationAt": "2024-02-29T18:50:20.000Z",
+      "updatedAt": "2024-02-29T18:50:20.000Z"
+    },
+    {
+      "id": 18,
+      "email": "shraddha@gmail.com",
+      "password": "test123",
+      "name": "shraddha jain",
+      "role": "customer",
+      "avatar": "shraddha.com",
+      "creationAt": "2024-02-29T18:51:12.000Z",
+      "updatedAt": "2024-02-29T18:51:12.000Z"
+    },
+    {
+      "id": 19,
+      "email": "zhouxinyuan0118@outlook.com",
+      "password": "995141876",
+      "name": "Sean",
+      "role": "customer",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnfz8Y-6lySaQofT4NlLtpqa_ukX3VSEyOCw&usqp=CAU",
+      "creationAt": "2024-02-29T19:22:11.000Z",
+      "updatedAt": "2024-02-29T19:22:11.000Z"
+    },
+    {
+      "id": 20,
+      "email": "nico@gmail.com",
+      "password": "1234",
+      "name": "Nicolas",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T19:33:14.000Z",
+      "updatedAt": "2024-02-29T19:33:14.000Z"
+    },
+    {
+      "id": 21,
+      "email": "diazejemplo@gmail.com",
+      "password": "123alma",
+      "name": "alma",
+      "role": "customer",
+      "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+      "creationAt": "2024-02-29T19:44:15.000Z",
+      "updatedAt": "2024-02-29T19:44:15.000Z"
+    },
+    {
+      "id": 22,
+      "email": "dani@mail.com",
+      "password": "123456",
+      "name": "dani",
+      "role": "customer",
+      "avatar": "https://gravatar.com/avatar/65aefe59c04ad9fcb2e78d80045dd507?s=400&d=robohash&r=x",
+      "creationAt": "2024-02-29T19:49:33.000Z",
+      "updatedAt": "2024-02-29T19:49:33.000Z"
+    },
+    {
+      "id": 23,
+      "email": "ccc@cc.cc",
+      "password": "12345",
+      "name": "addfdsf",
+      "role": "admin",
+      "avatar": "https://api.escuelajs.co/api/v1/files/c8df.jpeg",
+      "creationAt": "2024-02-29T20:41:24.000Z",
+      "updatedAt": "2024-02-29T20:41:50.000Z"
+    },
+    {
+      "id": 24,
+      "email": "diazejemplo@gmail.com",
+      "password": "123alma",
+      "name": "alma",
+      "role": "customer",
+      "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+      "creationAt": "2024-02-29T20:48:49.000Z",
+      "updatedAt": "2024-02-29T20:48:49.000Z"
+    },
+    {
+      "id": 25,
+      "email": "hectoraguilar2308@gmail.com",
+      "password": "123456",
+      "name": "Hector ",
+      "role": "customer",
+      "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+      "creationAt": "2024-02-29T20:58:03.000Z",
+      "updatedAt": "2024-02-29T20:58:03.000Z"
+    },
+    {
+      "id": 26,
+      "email": "andylarchin@gmail.com",
+      "password": "andylarchin",
+      "name": "Andy",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:11:26.000Z",
+      "updatedAt": "2024-02-29T22:11:26.000Z"
+    },
+    {
+      "id": 27,
+      "email": "andylarchin123@gmail.com",
+      "password": "andylarchin",
+      "name": "Andyz",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:14:42.000Z",
+      "updatedAt": "2024-02-29T22:14:42.000Z"
+    },
+    {
+      "id": 28,
+      "email": "andylarchin123@gmail.com",
+      "password": "andylarchin",
+      "name": "Andyz",
+      "role": "admin",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:15:42.000Z",
+      "updatedAt": "2024-02-29T22:15:42.000Z"
+    },
+    {
+      "id": 29,
+      "email": "andylarchin123@gmail.com",
+      "password": "andylarchin",
+      "name": "Andyz",
+      "role": "admin",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:15:49.000Z",
+      "updatedAt": "2024-02-29T22:15:49.000Z"
+    },
+    {
+      "id": 30,
+      "email": "andylarchin123@gmail.com",
+      "password": "andylarchin",
+      "name": "Andyz",
+      "role": "admin",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:17:07.000Z",
+      "updatedAt": "2024-02-29T22:17:07.000Z"
+    },
+    {
+      "id": 31,
+      "email": "fff@fff.ff",
+      "password": "12345",
+      "name": "werwerwerrwe",
+      "role": "customer",
+      "avatar": "https://api.escuelajs.co/api/v1/files/6e49.webp",
+      "creationAt": "2024-02-29T22:32:39.000Z",
+      "updatedAt": "2024-02-29T22:32:39.000Z"
+    },
+    {
+      "id": 32,
+      "email": "nico@gmail.com",
+      "password": "1234",
+      "name": "Nicolas",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:43:20.000Z",
+      "updatedAt": "2024-02-29T22:43:20.000Z"
+    },
+    {
+      "id": 33,
+      "email": "nico@gmail.com",
+      "password": "1234",
+      "name": "Nicolas",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:43:50.000Z",
+      "updatedAt": "2024-02-29T22:43:50.000Z"
+    },
+    {
+      "id": 34,
+      "email": "andreimetgher@gmail.com",
+      "password": "1234",
+      "name": "Nick",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:43:58.000Z",
+      "updatedAt": "2024-02-29T22:43:58.000Z"
+    },
+    {
+      "id": 35,
+      "email": "andreimetgher@gmail.com",
+      "password": "andylarchin",
+      "name": "Nick",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:44:31.000Z",
+      "updatedAt": "2024-02-29T22:44:31.000Z"
+    },
+    {
+      "id": 36,
+      "email": "andreimetgher@gmail.com",
+      "password": "andylarchin",
+      "name": "user",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:44:49.000Z",
+      "updatedAt": "2024-02-29T22:44:49.000Z"
+    },
+    {
+      "id": 37,
+      "email": "andreimetgher@gmail.com",
+      "password": "andylarchin",
+      "name": "user",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:45:05.000Z",
+      "updatedAt": "2024-02-29T22:45:05.000Z"
+    },
+    {
+      "id": 38,
+      "email": "andreimetgher@gmail.com",
+      "password": "andylarchin",
+      "name": "defaultUser",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:47:34.000Z",
+      "updatedAt": "2024-02-29T22:47:34.000Z"
+    },
+    {
+      "id": 39,
+      "email": "andylarchin@gmail.com",
+      "password": "12345",
+      "name": "defaultUser",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:52:53.000Z",
+      "updatedAt": "2024-02-29T22:52:53.000Z"
+    },
+    {
+      "id": 40,
+      "email": "andylarchin@gmail.com",
+      "password": "12345",
+      "name": "defaultUser",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:53:18.000Z",
+      "updatedAt": "2024-02-29T22:53:18.000Z"
+    },
+    {
+      "id": 41,
+      "email": "andylarchin@gmail.com",
+      "password": "12345",
+      "name": "defaultUser",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:54:03.000Z",
+      "updatedAt": "2024-02-29T22:54:03.000Z"
+    },
+    {
+      "id": 42,
+      "email": "andylarchin@gmail.com",
+      "password": "12345",
+      "name": "defaultUser",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:54:54.000Z",
+      "updatedAt": "2024-02-29T22:54:54.000Z"
+    },
+    {
+      "id": 43,
+      "email": "diazalmajuanita@gmail.com",
+      "password": "123alma",
+      "name": "alma",
+      "role": "customer",
+      "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+      "creationAt": "2024-02-29T22:56:49.000Z",
+      "updatedAt": "2024-02-29T22:56:49.000Z"
+    },
+    {
+      "id": 44,
+      "email": "andylarchin@gmail.com",
+      "password": "12345",
+      "name": "Nicolas",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:57:11.000Z",
+      "updatedAt": "2024-02-29T22:57:11.000Z"
+    },
+    {
+      "id": 45,
+      "email": "andylarchin@gmail.com",
+      "password": "12345",
+      "name": "Nicolas",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T22:57:36.000Z",
+      "updatedAt": "2024-02-29T22:57:36.000Z"
+    },
+    {
+      "id": 46,
+      "email": "andylarchin123@gmail.com",
+      "password": "andylarchin",
+      "name": "Andyz",
+      "role": "admin",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T23:07:49.000Z",
+      "updatedAt": "2024-02-29T23:07:49.000Z"
+    },
+    {
+      "id": 47,
+      "email": "andylarchin123@gmail.com",
+      "password": "andylarchin",
+      "name": "Nicolas",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T23:08:45.000Z",
+      "updatedAt": "2024-02-29T23:08:45.000Z"
+    },
+    {
+      "id": 48,
+      "email": "andylarchin123@gmail.com",
+      "password": "andylarchin",
+      "name": "Nicolas",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-02-29T23:10:24.000Z",
+      "updatedAt": "2024-02-29T23:10:24.000Z"
+    },
+    {
+      "id": 49,
+      "email": "destriaryani55@gmail.com",
+      "password": "Ramadhania23",
+      "name": "vicha",
+      "role": "customer",
+      "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+      "creationAt": "2024-03-01T01:31:57.000Z",
+      "updatedAt": "2024-03-01T01:31:57.000Z"
+    }
+  ]
